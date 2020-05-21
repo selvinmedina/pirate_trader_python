@@ -1,0 +1,8 @@
+name,has_bank,has_warehouse,has_moneylender
+Hong Kong,True,True,True
+San Pedro Sula,True,False,False
+Virginia,False,True,True
+Rusia,True,False,True
+Tegucigalpa	,True,True,True
+Malasia,False,False,False
+Choloma,True,False,True
